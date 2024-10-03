@@ -57,7 +57,7 @@ Run the program through TestMenu.java program
 ### Main Menu
 
 ---------- MAIN MENU ----------\
-| 1. Donor registration     |\
+| 1. Donor registration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
 | 2. NGO registration       |\
 | 3. Donor login            |\
 | 4. NGO login              |\
