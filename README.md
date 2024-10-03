@@ -56,7 +56,7 @@ Run the program through TestMenu.java program
 
 ### Main Menu
 
-----------MAIN MENU----------
+---------- MAIN MENU ----------
 | 1. Donor registration     |
 | 2. NGO registration       |
 | 3. Donor login            |
@@ -64,7 +64,7 @@ Run the program through TestMenu.java program
 | 5. Distribution Center    |
 | 6. Exit                   |
 |___________________________|
-Enter your choice : 
+Enter your choice :
 
 
 
