@@ -56,51 +56,22 @@ Run the program through TestMenu.java program
 
 ### Main Menu
 
----------- MAIN MENU ----------\
-| 1. Donor registration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|\
-| 2. NGO registration       |\
-| 3. Donor login            |\
-| 4. NGO login              |\
-| 5. Distribution Center    |\
-| 6. Exit                   |\
-|___________________________|\
-Enter your choice :\
+![alt text](Screenshots/image.png)
 
 
 
 ### Donor HomePage and their functionalities
 
-ACCESS GRANTED. WELCOME KAVII
-----------DONOR HOMEPAGE----------
-| 1. Donate aids                 |
-| 2. View donation table         |
-| 3. Logout                      |
-|________________________________|
-Enter your choice : 
+![alt text](Screenshots/image-1.png)
 
 
 
 ### NGO HomePage and their functionalities
 
-ACCESS GRANTED. WELCOME ABDUL
-----------NGO HOMEPAGE-----------
-| 1. Required aids               |
-| 2. View donation table         |
-| 3. Logout                      |
-|________________________________|
-Enter your choice :
+![alt text](Screenshots/image-2.png)
 
 
 
 ### Distribution Center HomePage and their activities
 
-ACCESS GRANTED. WELCOME THAMIZH
--------DISTRIBUTION CENTER--------
-| 1. View aids, donors and NGO   |
-| 2. Match aids 1-1              |
-| 3. Match aids 1-to-Many        |
-| 4. Match aids Many-to-1        |
-| 5. Match aids Many-to-Many     |
-| 6. Logout                      |
-|________________________________|
-Enter your choice :
+![alt text](Screenshots/image-3.png)
