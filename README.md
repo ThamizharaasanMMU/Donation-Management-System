@@ -56,15 +56,15 @@ Run the program through TestMenu.java program
 
 ### Main Menu
 
----------- MAIN MENU ----------
-| 1. Donor registration     |
-| 2. NGO registration       |
-| 3. Donor login            |
-| 4. NGO login              |
-| 5. Distribution Center    |
-| 6. Exit                   |
-|___________________________|
-Enter your choice :
+---------- MAIN MENU ----------\
+| 1. Donor registration     |\
+| 2. NGO registration       |\
+| 3. Donor login            |\
+| 4. NGO login              |\
+| 5. Distribution Center    |\
+| 6. Exit                   |\
+|___________________________|\
+Enter your choice :\
 
 
 
